@@ -1,10 +1,16 @@
 # KNN Regression
 
-Use protein and peptide data measurements from Parkinson's disease patients to predict doctor's assessment of a patient's state.
+[Jupyter notebook for this project](/notebook.ipynb)
+
+This is my intermediary project at the [neuefische](https://www.neuefische.de/en/bootcamp/data-science) **Data Science bootcamp**.
+
+
+Objective: Use protein and peptide data measurements from Parkinson's disease patients to predict doctor's assessment of a patient's state.
+
+
 
 The data used in this project is taken from [Kaggle](https://www.kaggle.com/competitions/amp-parkinsons-disease-progression-prediction)
 
-This is my intermediary project at the [neuefische](https://www.neuefische.de/en/bootcamp/data-science) **Data Science bootcamp**.
 
 Some details:
 - type: regression
